@@ -76,7 +76,7 @@ Breaking complex challenges into smaller parts and designing effective, scalable
 
 ## 📫 Connect with Me
 
-- 🌐 [Instagram](https://instagram.com/@ejazali__dev)  
+- 🌐 [Instagram](https://instagram.com/ejazali__dev)  
 - 📧 Email: devpro.ejazali34@gmail.com *(optional)*
 
 ---
