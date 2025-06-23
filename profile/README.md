@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm a 16-year-old software developer from **Skardu, Pakistan**, currently in **9th grade**. My journey in programming began when I discovered how code can solve real-world problems and bring ideas to life.
+I'm a 16-year-old software developer from **Skardu, Pakistan**, currently in **10th grade**. My journey in programming began when I discovered how code can solve real-world problems and bring ideas to life.
 
 I’ve been teaching myself programming through **YouTube tutorials** and **online resources**. My current focus is on **front-end development** with React, while also diving into **full-stack development** using tools like **Appwrite**.
 
@@ -26,7 +26,7 @@ Outside of coding, I dedicate time to my studies and enjoy experimenting with ne
 
 ## 📍 Location
 
-- 🏫 9th Grade Student  
+- 🏫 10th Grade Student  
 - 🌍 Based in **Skardu, Pakistan**  
 - 💼 Available for **remote work**
 
