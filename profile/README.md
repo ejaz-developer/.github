@@ -88,7 +88,7 @@ Breaking complex challenges into smaller parts and designing effective, scalable
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ejaz-developer&theme=radical" alt="GitHub Streak" />
+  [![GitHub Streak](https://streak-stats.demolab.com?user=ejaz-developer&theme=dark&hide_border=true)](https://git.io/streak-stats)
 </p>
 
 <p align="center">
