@@ -87,9 +87,7 @@ Breaking complex challenges into smaller parts and designing effective, scalable
   <img src="https://github-readme-stats.vercel.app/api?username=ejaz-developer&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=ejaz-developer&theme=dark&hide_border=true)](https://git.io/streak-stats)
-</p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ejaz-developer&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ejaz-developer&layout=compact&theme=radical" alt="Top Languages" />
