@@ -9,7 +9,7 @@
       <img src="https://img.shields.io/badge/Email-Contact-d14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
     </a>
     <a href="https://instagram.com/ejazali__dev">
-      <img src="https://img.shields.io/badge/Instagram-@ejazali__dev-E1306C?style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
+      <img src="https://img.shields.io/badge/Instagram-@ejaz_dev_gg-E1306C?style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
     </a>
   </p>
 
@@ -56,7 +56,7 @@ All repositories and contributions accessible via [GitHub Repositories](https://
 
 **Email** — devpro.ejazali34@gmail.com  
 **Portfolio** — https://www.ejaz-developer.me/  
-**Instagram** — @ejazali__dev  
+**Instagram** — @ejaz_dev_gg 
 
 Available for remote full-stack roles, freelance projects, or technical discussions where clean, reliable code and modern development practices add value.
 
