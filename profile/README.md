@@ -13,60 +13,52 @@
     </a>
   </p>
 
-  <p><strong>Full-Stack Developer</strong> specializing in MERN stack and Next.js</p>
-  <p>Building responsive, scalable web applications • Open to remote junior roles & collaborations • Based in Pakistan</p>
+  <p><strong>Full-Stack Developer</strong> — MERN Stack & Next.js Specialist</p>
+  <p>Building scalable, production-ready web applications with modern JavaScript ecosystems • Open to remote opportunities & collaborations • Pakistan</p>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=ejaz-developer&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=ejaz-developer&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true&show=prs_merged,prs_merged_percentage" alt="GitHub Stats" width="48%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ejaz-developer&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="40%">
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=ejaz-developer&theme=tokyonight&hide_border=true&date_format=M+j" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=ejaz-developer&theme=tokyonight&hide_border=true&date_format=M+j" alt="Contribution Streak" />
 </div>
 
 <hr>
 
-### **About Me**
+### **Expertise**
 
-Self-taught full-stack developer focused on modern JavaScript ecosystems. I create production-ready applications with clean code, strong typing, and intuitive user experiences.
+Intermediate full-stack developer with hands-on experience in end-to-end web development. Specialized in creating responsive, type-safe, and maintainable applications using contemporary tools and best practices.
 
-- Exploring **Next.js App Router**, **TypeScript patterns**, and **server components**
-- Completed 20+ projects with live deployments
-- **Portfolio**: [ejaz-developer.me](https://www.ejaz-developer.me/) — featuring detailed case studies
+- **Frontend** — React, Next.js (App Router & Server Components), TypeScript, Tailwind CSS
+- **Backend** — Node.js, Express, RESTful APIs, Appwrite, MongoDB
+- **Architecture & Practices** — Authentication (JWT), real-time features, optimistic UI, responsive design, Vercel deployments, clean code principles
+- **Focus Areas** — Scalable full-stack solutions, problem decomposition, continuous learning in modern JavaScript ecosystems
 
 ### **Technologies**
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,express,mongodb,tailwind,git,vscode&perline=7" alt="Tech Stack">
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,express,mongodb,tailwind,git,vscode,linux&perline=8" alt="Tech Stack">
 </div>
 
-**Frontend** — React, Next.js (App Router), TypeScript, Tailwind CSS  
-**Backend** — Node.js, Express, REST APIs, Appwrite, MongoDB  
-**Tools** — Git, Vercel deployments, JWT authentication, responsive design
+### **Work Showcase**
 
-### **Featured Projects**
+Detailed case studies, live demos, architecture overviews, and source insights available on the portfolio:
 
-**RecordKeeper**  
-Full-stack inventory & sales platform with role-based authentication, real-time data, and Chart.js visualizations.  
-**Tech**: React, Node.js, Appwrite, Chart.js  
-[View on Portfolio](https://www.ejaz-developer.me/) • Repository (add link)
+**[ejaz-developer.me](https://www.ejaz-developer.me/)**  
+— Full project documentation, screenshots, tech breakdowns, and deployment links
 
-**BookMYGB**  
-End-to-end bus booking system with interactive seat maps, optimistic UI, and payment flow simulation.  
-**Tech**: MongoDB, Express, React, Node.js  
-[View on Portfolio](https://www.ejaz-developer.me/) • Repository (add link)
-
-Explore all projects in [Repositories](https://github.com/ejaz-developer?tab=repositories) and the [portfolio site](https://www.ejaz-developer.me/).
+All repositories and contributions accessible via [GitHub Repositories](https://github.com/ejaz-developer?tab=repositories)
 
 <hr>
 
 ### **Contact**
 
-**Email**: devpro.ejazali34@gmail.com  
-**Portfolio**: https://www.ejaz-developer.me/  
-**Instagram**: @ejazali__dev  
+**Email** — devpro.ejazali34@gmail.com  
+**Portfolio** — https://www.ejaz-developer.me/  
+**Instagram** — @ejazali__dev  
 
-Open to junior full-stack opportunities where I can deliver value and continue learning.
+Available for remote full-stack roles, freelance projects, or technical discussions where clean, reliable code and modern development practices add value.
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ejaz-developer&color=6366f1&style=flat-square&label=Profile+Views" alt="Profile Views">
