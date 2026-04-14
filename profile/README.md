@@ -4,7 +4,7 @@
 ## Problem Solver & Full‑Stack Architect  
 
 📍 Based in Skardu, Pakistan  
-*5+ years of crafting scalable, pixel‑perfect web experiences with the MERN & Next.js stack*
+*3+ years of crafting scalable, pixel‑perfect web experiences with the MERN & Next.js stack*
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-ejaz--developer.me-6366f1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.ejaz-developer.me/)
 [![Email](https://img.shields.io/badge/📧_Email-devpro.ejazali34@gmail.com-d14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devpro.ejazali34@gmail.com)
@@ -23,7 +23,7 @@ I’m a full‑stack developer focused on building **clean, performant, and user
   
 | 🧠 Experience | 🚀 Projects | 🛠️ Tech Stack |
 |:-------------:|:-----------:|:-------------:|
-| **3+ Years** | **20+ Completed** | **10+ Technologies** |
+| **3+ Years** | **5+ Completed** | **10+ Technologies** |
 
 </div>
 
@@ -42,17 +42,11 @@ I’m a full‑stack developer focused on building **clean, performant, and user
     <td width="50%">
       <strong>🔹 Mobile App Development</strong><br>
       <em>2023 – Present</em><br>
-      • High‑performance mobile apps using React Native & Flutter<br>
+      • High‑performance mobile apps using React Native<br>
       • Optimized UX & performance across platforms
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <strong>🔹 SEO Optimization</strong><br>
-      <em>2019 – Present</em><br>
-      • Improved search visibility with keyword research & content strategies<br>
-      • Increased organic traffic for multiple projects
-    </td>
     <td width="50%">
       <strong>🔹 Backend Development</strong><br>
       <em>2018 – Present</em><br>
@@ -88,7 +82,7 @@ I combine technical mastery with creative intuition to deliver solutions that ar
   
 | **🌐 Web Development** | **📱 Mobile Apps** | **🔍 SEO** |
 |:----------------------:|:------------------:|:----------:|
-| React · Next.js · Vue.js | React Native · Flutter · Swift | On‑page & technical SEO |
+| React · Next.js · Vue.js | React Native  | On‑page & technical SEO |
 
 | **⚙️ Backend** | **⚡ Performance** |
 |:--------------:|:-----------------:|
@@ -102,8 +96,6 @@ I combine technical mastery with creative intuition to deliver solutions that ar
 
 | Project | Description |
 |---------|-------------|
-| **Seamless Tickets** | A comprehensive ticket solution for businesses needing reliable ticketing services. |
-| **Biz Ticketing Web App** | All‑in‑one platform for managing tickets across multiple channels. |
 | **Record Keeper POS** | Cutting‑edge point‑of‑sale system streamlining payment processing. |
 
 *Detailed case studies, live demos, and source insights are available on [my portfolio](https://www.ejaz-developer.me/).*
