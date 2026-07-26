@@ -3,11 +3,11 @@
 # ⚡ Ejaz Ali  
 ## Problem Solver & Full‑Stack Architect  
 
-📍 Based in Skardu, Pakistan  
+📍 Based in Skardu, Gilgit-Baltistan, Pakistan  
 *3+ years of crafting scalable, pixel‑perfect web experiences with the MERN & Next.js stack*
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-ejaz--developer.me-6366f1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.ejaz-developer.me/)
-[![Email](https://img.shields.io/badge/📧_Email-devpro.ejazali34@gmail.com-d14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devpro.ejazali34@gmail.com)
+[![Email](https://img.shields.io/badge/📧_Email-hello.ejaz@outlook.com-d14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello.ejaz@outlook.com)
 [![GitHub](https://img.shields.io/badge/🐙_GitHub-ejaz--developer-181717?style=for-the-badge&logo=github)](https://github.com/ejaz-developer)
 [![Instagram](https://img.shields.io/badge/📸_Instagram-@ejazali__dev-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ejazali__dev)
 
@@ -23,7 +23,7 @@ I’m a full‑stack developer focused on building **clean, performant, and user
   
 | 🧠 Experience | 🚀 Projects | 🛠️ Tech Stack |
 |:-------------:|:-----------:|:-------------:|
-| **3+ Years** | **5+ Completed** | **10+ Technologies** |
+| **3+ Years** | **4+ Completed** | **10+ Technologies** |
 
 </div>
 
@@ -33,33 +33,21 @@ I’m a full‑stack developer focused on building **clean, performant, and user
 
 <table>
   <tr>
-    <td width="50%">
-      <strong>🔹 Frontend Developer</strong><br>
-      <em>2021 – Present</em><br>
-      • Interactive & responsive apps with React, Next.js, Tailwind CSS<br>
-      • Seamless integration with cross‑functional teams
-    </td>
-    <td width="50%">
-      <strong>🔹 Mobile App Development</strong><br>
-      <em>2023 – Present</em><br>
-      • High‑performance mobile apps using React Native<br>
-      • Optimized UX & performance across platforms
+    <td width="100%">
+      <strong>🔹 Full Stack Developer</strong> at <strong>CodeHub Skardu</strong><br>
+      <em>2024 – 2025</em><br>
+      • Building scalable web applications from front to back using modern technologies<br>
+      • Creating responsive user interfaces, designing APIs, managing databases, and deploying production-ready applications<br>
+      • <em>Skills:</em> Next.js, TypeScript, Node.js, MongoDB, Tailwind CSS
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <strong>🔹 Backend Development</strong><br>
-      <em>2018 – Present</em><br>
-      • Robust server‑side logic with Node.js, Express, MongoDB<br>
-      • RESTful APIs & third‑party integrations
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <strong>🔹 Performance Optimization</strong><br>
-      <em>2017 – Present</em><br>
-      • Speed audits & optimization (Core Web Vitals, Lighthouse)<br>
-      • Delivered exceptional user experiences
+    <td width="100%">
+      <strong>🔹 Frontend Developer</strong> at <strong>CodeHub Skardu</strong><br>
+      <em>2023 – 2024</em><br>
+      • Developed responsive, accessible, and high-performance interfaces for client projects<br>
+      • Worked closely with designers and backend developers to deliver smooth user experiences across different devices<br>
+      • <em>Skills:</em> React, JavaScript, Redux, State Management, REST APIs
     </td>
   </tr>
 </table>
@@ -69,7 +57,7 @@ I’m a full‑stack developer focused on building **clean, performant, and user
 ## 🛠️ Technology Arsenal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,express,mongodb,appwrite,tailwind,git,vercel,linux&perline=6" alt="Tech Stack">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,mongodb,tailwind,redux,git,supabase,firebase&perline=6" alt="Tech Stack">
 </div>
 
 ---
@@ -80,13 +68,9 @@ I combine technical mastery with creative intuition to deliver solutions that ar
 
 <div align="center">
   
-| **🌐 Web Development** | **📱 Mobile Apps** | **🔍 SEO** |
-|:----------------------:|:------------------:|:----------:|
-| React · Next.js · Vue.js | React Native  | On‑page & technical SEO |
-
-| **⚙️ Backend** | **⚡ Performance** |
-|:--------------:|:-----------------:|
-| Node.js · Express · MongoDB | Core Web Vitals · Lighthouse audits |
+| **🌐 Web Development** | **⚙️ Backend Development** | **⚡ Performance Optimization** |
+|:----------------------:|:--------------------------:|:-------------------------------:|
+| React · Next.js · MERN Stack | Node.js · Express · MongoDB | Core Web Vitals · Load Time Reduction |
 
 </div>
 
@@ -96,7 +80,9 @@ I combine technical mastery with creative intuition to deliver solutions that ar
 
 | Project | Description |
 |---------|-------------|
-| **Record Keeper POS** | Cutting‑edge point‑of‑sale system streamlining payment processing. |
+| **BookMyGB** ⭐ | Online bus booking platform for Gilgit-Baltistan. Search routes, reserve seats, and manage bookings efficiently. |
+| **CogniClick** ⭐ | AI-powered platform helping YouTube creators improve CTR by analyzing thumbnails and titles before publishing. |
+| **Record Keeper POS** | Modern point-of-sale system for small businesses to manage products, inventory, sales, and daily operations. |
 
 *Detailed case studies, live demos, and source insights are available on [my portfolio](https://www.ejaz-developer.me/).*
 
@@ -107,7 +93,7 @@ I combine technical mastery with creative intuition to deliver solutions that ar
 I’m currently available for **freelance work** and **collaborations**. Let’s talk about your next project!
 
 <div align="center">
-  <a href="mailto:devpro.ejazali34@gmail.com">
+  <a href="mailto:hello.ejaz@outlook.com">
     <img src="https://img.shields.io/badge/📧_Email_Me-d14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://www.ejaz-developer.me/">
