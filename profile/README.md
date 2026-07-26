@@ -9,7 +9,7 @@
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-HelloEjaz-6366f1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.hello-ejaz.vercel.app/)
 [![Email](https://img.shields.io/badge/📧_Email-hello.ejaz@outlook.com-d14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello.ejaz@outlook.com)
 [![GitHub](https://img.shields.io/badge/🐙_GitHub-ejaz--developer-181717?style=for-the-badge&logo=github)](https://github.com/ejaz-developer)
-[![Instagram](https://img.shields.io/badge/📸_Instagram-@ejazali__dev-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ejazali__dev)
+[![Instagram](https://img.shields.io/badge/📸_Instagram-@hello.ejazofficial-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hello.ejazofficial)
 
 </div>
 
