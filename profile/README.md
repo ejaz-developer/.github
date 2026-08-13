@@ -60,13 +60,14 @@ Full case studies and live demos are on [my portfolio](https://www.hello-ejaz.ve
 
 ## GitHub Activity
 
-![Ejaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=ejaz-developer&show_icons=true&theme=default&hide_border=true)
+![Ejaz's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=ejaz-developer&show_icons=true&theme=default&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ejaz-developer&layout=compact&hide_border=true)
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ejaz-developer&layout=compact&hide_border=true&langs_count=8)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ejaz-developer&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=ejaz-developer&hide_border=true&theme=default)
 
-[![Star History Chart](https://api.star-history.com/svg?repos=ejaz-developer/BookMyGB,ejaz-developer/CogniClick&type=Date)](https://star-history.com/#ejaz-developer/BookMyGB&ejaz-developer/CogniClick&Date)
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ejaz-developer/cogniclick&type=Date)](https://star-history.com/#ejaz-developer/REPO_NAME&Date)
 
 ---
 
