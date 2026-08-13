@@ -1,117 +1,85 @@
+# Ejaz Ali
+
+Full-Stack Developer, based in Skardu, Gilgit-Baltistan, Pakistan
+
+[Portfolio](https://www.hello-ejaz.vercel.app/) · [Email](mailto:hello.ejaz@outlook.com) · [GitHub](https://github.com/ejaz-developer) · [Instagram](https://instagram.com/hello.ejazofficial)
+
+---
+
+## About Me
+
+I build web applications end to end, from the database schema to the pixel on screen. Most of my work sits on the MERN stack and Next.js, and I lean on MongoDB or PostgreSQL depending on how structured the data needs to be.
+
+What I care about isn't just shipping features. I want to understand why a product is built a certain way: the trade-offs behind a schema, the reasoning behind an API boundary, the business logic that makes an app actually useful to the people running it. That's the part of engineering I keep pushing myself to get better at, especially now that AI tools can write code fast. Writing code was never the hard part. Deciding what to build, and why, still is.
+
+Three years in, I've moved from styling interfaces to owning full products: designing the data layer, building the APIs, and putting the whole thing into production.
+
+---
+
+## Experience
+
+**Full Stack Developer, CodeHub Skardu**
+2024 to 2025
+
+I owned projects from front to back: designing APIs, structuring databases, building interfaces, and deploying to production. Most of this work ran on Next.js, TypeScript, Node.js, and MongoDB, with Tailwind CSS for the UI layer.
+
+**Frontend Developer, CodeHub Skardu**
+2023 to 2024
+
+I built responsive, accessible interfaces for client projects, working closely with designers and backend developers to keep the experience consistent across devices. This is where I got comfortable with React, Redux, and consuming REST APIs.
+
+---
+
+## Technical Skills
+
+**Frontend:** React, Next.js, TypeScript, Redux, Tailwind CSS
+**Backend:** Node.js, Express, REST APIs
+**Databases:** MongoDB, PostgreSQL, Supabase, Firebase
+**Tooling:** Git, Core Web Vitals and performance optimization
+
 <div align="center">
-  
-# ⚡ Ejaz Ali  
-## Problem Solver & Full‑Stack Architect  
-
-📍 Based in Skardu, Gilgit-Baltistan, Pakistan  
-*3+ years of crafting scalable, pixel‑perfect web experiences with the MERN & Next.js stack*
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-HelloEjaz-6366f1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.hello-ejaz.vercel.app/)
-[![Email](https://img.shields.io/badge/📧_Email-hello.ejaz@outlook.com-d14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello.ejaz@outlook.com)
-[![GitHub](https://img.shields.io/badge/🐙_GitHub-ejaz--developer-181717?style=for-the-badge&logo=github)](https://github.com/ejaz-developer)
-[![Instagram](https://img.shields.io/badge/📸_Instagram-@hello.ejazofficial-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hello.ejazofficial)
-
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,redux,mongodb,postgres,supabase,firebase,tailwind,git,figma&perline=7" alt="Tech Stack Icons" />
 </div>
 
 ---
 
-## 🎯 Crafting High‑Performance Digital Experiences
+## Featured Work
 
-I’m a full‑stack developer focused on building **clean, performant, and user‑centric** web applications. My approach combines technical excellence with a keen eye for design, ensuring every project is not just functional, but a delight to use.
+**BookMyGB**
+An online bus booking platform built for Gilgit-Baltistan. Riders can search routes, reserve seats, and manage their bookings without calling a counter.
 
-<div align="center">
-  
-| 🧠 Experience | 🚀 Projects | 🛠️ Tech Stack |
-|:-------------:|:-----------:|:-------------:|
-| **3+ Years** | **4+ Completed** | **10+ Technologies** |
+**CogniClick**
+An AI-powered tool that helps YouTube creators test thumbnails and titles before publishing, so they get a read on click-through potential ahead of time instead of guessing after the fact.
 
-</div>
+**Record Keeper POS**
+A point-of-sale system for small businesses to track products, inventory, and daily sales in one place.
 
----
-
-## 💼 Professional Experience
-
-<table>
-  <tr>
-    <td width="100%">
-      <strong>🔹 Full Stack Developer</strong> at <strong>CodeHub Skardu</strong><br>
-      <em>2024 – 2025</em><br>
-      • Building scalable web applications from front to back using modern technologies<br>
-      • Creating responsive user interfaces, designing APIs, managing databases, and deploying production-ready applications<br>
-      • <em>Skills:</em> Next.js, TypeScript, Node.js, MongoDB, Tailwind CSS
-    </td>
-  </tr>
-  <tr>
-    <td width="100%">
-      <strong>🔹 Frontend Developer</strong> at <strong>CodeHub Skardu</strong><br>
-      <em>2023 – 2024</em><br>
-      • Developed responsive, accessible, and high-performance interfaces for client projects<br>
-      • Worked closely with designers and backend developers to deliver smooth user experiences across different devices<br>
-      • <em>Skills:</em> React, JavaScript, Redux, State Management, REST APIs
-    </td>
-  </tr>
-</table>
+Full case studies and live demos are on [my portfolio](https://www.hello-ejaz.vercel.app/).
 
 ---
 
-## 🛠️ Technology Arsenal
+## GitHub Activity
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,mongodb,tailwind,redux,git,supabase,firebase&perline=6" alt="Tech Stack">
-</div>
+![Ejaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=ejaz-developer&show_icons=true&theme=default&hide_border=true)
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ejaz-developer&layout=compact&hide_border=true)
 
-## 🧩 Solving Problems With Digital Precision
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ejaz-developer&hide_border=true)
 
-I combine technical mastery with creative intuition to deliver solutions that are not only functional but truly memorable.
-
-<div align="center">
-  
-| **🌐 Web Development** | **⚙️ Backend Development** | **⚡ Performance Optimization** |
-|:----------------------:|:--------------------------:|:-------------------------------:|
-| React · Next.js · MERN Stack | Node.js · Express · MongoDB | Core Web Vitals · Load Time Reduction |
-
-</div>
+[![Star History Chart](https://api.star-history.com/svg?repos=ejaz-developer/BookMyGB,ejaz-developer/CogniClick&type=Date)](https://star-history.com/#ejaz-developer/BookMyGB&ejaz-developer/CogniClick&Date)
 
 ---
 
-## 📁 Featured Work
+## Let's Work Together
 
-| Project | Description |
-|---------|-------------|
-| **BookMyGB** ⭐ | Online bus booking platform for Gilgit-Baltistan. Search routes, reserve seats, and manage bookings efficiently. |
-| **CogniClick** ⭐ | AI-powered platform helping YouTube creators improve CTR by analyzing thumbnails and titles before publishing. |
-| **Record Keeper POS** | Modern point-of-sale system for small businesses to manage products, inventory, sales, and daily operations. |
+I'm currently taking on freelance work and open to collaborations. If you have a project in mind, reach out.
 
-*Detailed case studies, live demos, and source insights are available on [my portfolio](https://www.ejaz-developer.me/).*
+**Email:** [hello.ejaz@outlook.com](mailto:hello.ejaz@outlook.com)
+**Portfolio:** [hello-ejaz.vercel.app](https://www.hello-ejaz.vercel.app/)
+**Instagram:** [@hello.ejazofficial](https://instagram.com/hello.ejazofficial)
 
----
-
-## 📫 Let’s Connect & Build Something Great
-
-I’m currently available for **freelance work** and **collaborations**. Let’s talk about your next project!
-
-<div align="center">
-  <a href="mailto:hello.ejaz@outlook.com">
-    <img src="https://img.shields.io/badge/📧_Email_Me-d14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://www.ejaz-developer.me/">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-6366f1?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
-  </a>
-  <a href="https://instagram.com/ejazali__dev">
-    <img src="https://img.shields.io/badge/📸_Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ejaz-developer&color=6366f1&style=flat-square&label=Profile+Views" alt="Profile Views">
-</div>
+![Profile Views](https://komarev.com/ghpvc/?username=ejaz-developer&color=333333&style=flat-square&label=Profile+Views)
 
 ---
 
-<div align="center">
-  <sub>© Ejaz Ali. All rights reserved.</sub>
-</div>
+© Ejaz Ali. All rights reserved.
